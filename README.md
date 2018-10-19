@@ -1,4 +1,4 @@
-# honors-thesis-jon-le
+# APD - Accurate Point Designator: Intuitive Rating System
 This is a Clarkson University Honors Thesis Project made by Jonathan Le.
 
 Main ideas for this project are currently:
